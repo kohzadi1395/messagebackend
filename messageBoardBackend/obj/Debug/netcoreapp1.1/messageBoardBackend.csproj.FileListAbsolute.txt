@@ -1,0 +1,9 @@
+E:\Project\messageboard\messageBoardBackend\messageBoardBackend\bin\Debug\netcoreapp1.1\messageBoardBackend.deps.json
+E:\Project\messageboard\messageBoardBackend\messageBoardBackend\bin\Debug\netcoreapp1.1\messageBoardBackend.runtimeconfig.json
+E:\Project\messageboard\messageBoardBackend\messageBoardBackend\bin\Debug\netcoreapp1.1\messageBoardBackend.runtimeconfig.dev.json
+E:\Project\messageboard\messageBoardBackend\messageBoardBackend\bin\Debug\netcoreapp1.1\messageBoardBackend.dll
+E:\Project\messageboard\messageBoardBackend\messageBoardBackend\bin\Debug\netcoreapp1.1\messageBoardBackend.pdb
+E:\Project\messageboard\messageBoardBackend\messageBoardBackend\obj\Debug\netcoreapp1.1\messageBoardBackend.csprojResolveAssemblyReference.cache
+E:\Project\messageboard\messageBoardBackend\messageBoardBackend\obj\Debug\netcoreapp1.1\messageBoardBackend.AssemblyInfo.cs
+E:\Project\messageboard\messageBoardBackend\messageBoardBackend\obj\Debug\netcoreapp1.1\messageBoardBackend.dll
+E:\Project\messageboard\messageBoardBackend\messageBoardBackend\obj\Debug\netcoreapp1.1\messageBoardBackend.pdb
