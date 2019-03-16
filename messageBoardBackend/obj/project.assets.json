@@ -10774,10 +10774,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Project\\messageboard\\messageBoardBackend\\messageBoardBackend\\messageBoardBackend.csproj",
+      "projectUniqueName": "D:\\message-board-backend\\messagebackend\\messageBoardBackend\\messageBoardBackend.csproj",
       "projectName": "messageBoardBackend",
-      "projectPath": "E:\\Project\\messageboard\\messageBoardBackend\\messageBoardBackend\\messageBoardBackend.csproj",
-      "outputPath": "E:\\Project\\messageboard\\messageBoardBackend\\messageBoardBackend\\obj\\",
+      "projectPath": "D:\\message-board-backend\\messagebackend\\messageBoardBackend\\messageBoardBackend.csproj",
+      "outputPath": "D:\\message-board-backend\\messagebackend\\messageBoardBackend\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
